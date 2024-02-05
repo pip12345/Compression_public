@@ -1,0 +1,2 @@
+This is a cool test to test the compression and decompression of this file.
+There are many words here.
